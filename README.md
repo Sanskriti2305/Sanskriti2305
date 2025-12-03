@@ -67,23 +67,16 @@ Just a  ***machiavellian*** developer building projects ***forevermore***
 ### 📬 Connect With Me
 
 <p align="center">
-
-  <!-- Email Icon (WORKS with mailto) -->
-  <a href="mailto:sanskriti.sg05@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" 
-         width="40" 
-         alt="Email"/>
+  <a href="mailto:sanskriti.sg05@gmail.com" title="sanskriti.sg05@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- LinkedIn Icon -->
   <a href="http://www.linkedin.com/in/sanskriti-shukla-586042375" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         width="40" 
-         alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
-
 </p>
+
+
 
 
 
